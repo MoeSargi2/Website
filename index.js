@@ -19,7 +19,7 @@
 		
 
     <!-- Website Title -->
-    <title>EZdorks - Index</title>
+    <title>Edorks - Index</title>
     
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700" rel="stylesheet">
